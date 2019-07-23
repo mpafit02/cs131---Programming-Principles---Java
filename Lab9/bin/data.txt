@@ -1,0 +1,1 @@
+In computer science, a TRie, also called digital tree and somet1mes rad1x tree or prefix tree as they can be 5earched by prefixes, is a kind of search tree an ordered Tree data 5tructure that is used to store a dynamic SET or associative array where the keYS are usually strings.

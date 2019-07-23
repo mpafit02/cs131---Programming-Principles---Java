@@ -1,0 +1,240 @@
+
+Programme 1 has 5 places
+Interested candidates are 19
+Candidate: 13 Score: 19.67 Preference: 3
+Candidate: 4  Score: 19.56 Preference: 4
+Candidate: 30 Score: 19.30 Preference: 1
+Candidate: 10 Score: 19.12 Preference: 1
+Candidate: 20 Score: 19.05 Preference: 2
+Candidate: 18 Score: 18.56 Preference: 4
+Candidate: 3  Score: 18.36 Preference: 3
+Candidate: 14 Score: 18.23 Preference: 4
+Candidate: 24 Score: 18.23 Preference: 2
+Candidate: 27 Score: 17.23 Preference: 5
+Candidate: 17 Score: 17.06 Preference: 3
+Candidate: 1  Score: 16.25 Preference: 3
+Candidate: 5  Score: 15.78 Preference: 3
+Candidate: 7  Score: 15.76 Preference: 2
+Candidate: 9  Score: 15.67 Preference: 1
+Candidate: 11 Score: 15.45 Preference: 1
+Candidate: 15 Score: 12.80 Preference: 1
+Candidate: 6  Score: 12.78 Preference: 1
+Candidate: 16 Score: 10.67 Preference: 1
+
+Programme 2 has 5 places
+Interested candidates are 16
+Candidate: 2  Score: 20.00 Preference: 3
+Candidate: 18 Score: 18.56 Preference: 2
+Candidate: 3  Score: 18.36 Preference: 1
+Candidate: 14 Score: 18.23 Preference: 2
+Candidate: 24 Score: 18.23 Preference: 1
+Candidate: 27 Score: 17.23 Preference: 4
+Candidate: 21 Score: 16.45 Preference: 3
+Candidate: 12 Score: 16.34 Preference: 2
+Candidate: 1  Score: 16.25 Preference: 1
+Candidate: 5  Score: 15.78 Preference: 2
+Candidate: 7  Score: 15.76 Preference: 4
+Candidate: 11 Score: 15.45 Preference: 2
+Candidate: 29 Score: 13.47 Preference: 1
+Candidate: 6  Score: 12.78 Preference: 2
+Candidate: 23 Score: 12.67 Preference: 3
+Candidate: 16 Score: 10.67 Preference: 3
+
+Programme 3 has 5 places
+Interested candidates are 18
+Candidate: 13 Score: 19.67 Preference: 4
+Candidate: 4  Score: 19.56 Preference: 1
+Candidate: 30 Score: 19.30 Preference: 2
+Candidate: 10 Score: 19.12 Preference: 2
+Candidate: 18 Score: 18.56 Preference: 3
+Candidate: 14 Score: 18.23 Preference: 1
+Candidate: 8  Score: 17.50 Preference: 3
+Candidate: 27 Score: 17.23 Preference: 2
+Candidate: 17 Score: 17.06 Preference: 1
+Candidate: 28 Score: 16.78 Preference: 3
+Candidate: 21 Score: 16.45 Preference: 2
+Candidate: 12 Score: 16.34 Preference: 1
+Candidate: 5  Score: 15.78 Preference: 4
+Candidate: 22 Score: 15.78 Preference: 2
+Candidate: 7  Score: 15.76 Preference: 1
+Candidate: 9  Score: 15.67 Preference: 2
+Candidate: 11 Score: 15.45 Preference: 3
+Candidate: 15 Score: 12.80 Preference: 3
+
+Programme 4 has 5 places
+Interested candidates are 19
+Candidate: 2  Score: 20.00 Preference: 1
+Candidate: 13 Score: 19.67 Preference: 2
+Candidate: 4  Score: 19.56 Preference: 2
+Candidate: 3  Score: 18.36 Preference: 4
+Candidate: 14 Score: 18.23 Preference: 3
+Candidate: 8  Score: 17.50 Preference: 1
+Candidate: 27 Score: 17.23 Preference: 1
+Candidate: 17 Score: 17.06 Preference: 4
+Candidate: 28 Score: 16.78 Preference: 2
+Candidate: 21 Score: 16.45 Preference: 1
+Candidate: 12 Score: 16.34 Preference: 3
+Candidate: 26 Score: 16.12 Preference: 1
+Candidate: 22 Score: 15.78 Preference: 1
+Candidate: 11 Score: 15.45 Preference: 4
+Candidate: 29 Score: 13.47 Preference: 2
+Candidate: 25 Score: 13.45 Preference: 2
+Candidate: 23 Score: 12.67 Preference: 2
+Candidate: 16 Score: 10.67 Preference: 2
+Candidate: 19 Score: 10.50 Preference: 2
+
+Programme 5 has 5 places
+Interested candidates are 24
+Candidate: 2  Score: 20.00 Preference: 2
+Candidate: 13 Score: 19.67 Preference: 1
+Candidate: 4  Score: 19.56 Preference: 3
+Candidate: 30 Score: 19.30 Preference: 3
+Candidate: 10 Score: 19.12 Preference: 3
+Candidate: 20 Score: 19.05 Preference: 1
+Candidate: 18 Score: 18.56 Preference: 1
+Candidate: 3  Score: 18.36 Preference: 2
+Candidate: 24 Score: 18.23 Preference: 3
+Candidate: 8  Score: 17.50 Preference: 2
+Candidate: 27 Score: 17.23 Preference: 3
+Candidate: 17 Score: 17.06 Preference: 2
+Candidate: 28 Score: 16.78 Preference: 1
+Candidate: 12 Score: 16.34 Preference: 4
+Candidate: 1  Score: 16.25 Preference: 2
+Candidate: 26 Score: 16.12 Preference: 2
+Candidate: 5  Score: 15.78 Preference: 1
+Candidate: 7  Score: 15.76 Preference: 3
+Candidate: 9  Score: 15.67 Preference: 3
+Candidate: 11 Score: 15.45 Preference: 5
+Candidate: 25 Score: 13.45 Preference: 1
+Candidate: 15 Score: 12.80 Preference: 2
+Candidate: 23 Score: 12.67 Preference: 1
+Candidate: 19 Score: 10.50 Preference: 1
+
+Reducing interested candidates according to preferences
+
+Programme 1 has 5 places
+Interested candidates are 8
+Candidate: 30 Score: 19.30 Preference: 1
+Candidate: 10 Score: 19.12 Preference: 1
+Candidate: 7  Score: 15.76 Preference: 2
+Candidate: 9  Score: 15.67 Preference: 1
+Candidate: 11 Score: 15.45 Preference: 1
+Candidate: 15 Score: 12.80 Preference: 1
+Candidate: 6  Score: 12.78 Preference: 1
+Candidate: 16 Score: 10.67 Preference: 1
+
+Programme 2 has 5 places
+Interested candidates are 7
+Candidate: 3  Score: 18.36 Preference: 1
+Candidate: 24 Score: 18.23 Preference: 1
+Candidate: 1  Score: 16.25 Preference: 1
+Candidate: 29 Score: 13.47 Preference: 1
+Candidate: 6  Score: 12.78 Preference: 2
+Candidate: 23 Score: 12.67 Preference: 3
+Candidate: 16 Score: 10.67 Preference: 3
+
+Programme 3 has 5 places
+Interested candidates are 7
+Candidate: 4  Score: 19.56 Preference: 1
+Candidate: 14 Score: 18.23 Preference: 1
+Candidate: 17 Score: 17.06 Preference: 1
+Candidate: 12 Score: 16.34 Preference: 1
+Candidate: 22 Score: 15.78 Preference: 2
+Candidate: 7  Score: 15.76 Preference: 1
+Candidate: 15 Score: 12.80 Preference: 3
+
+Programme 4 has 5 places
+Interested candidates are 10
+Candidate: 2  Score: 20.00 Preference: 1
+Candidate: 8  Score: 17.50 Preference: 1
+Candidate: 27 Score: 17.23 Preference: 1
+Candidate: 21 Score: 16.45 Preference: 1
+Candidate: 26 Score: 16.12 Preference: 1
+Candidate: 22 Score: 15.78 Preference: 1
+Candidate: 25 Score: 13.45 Preference: 2
+Candidate: 23 Score: 12.67 Preference: 2
+Candidate: 16 Score: 10.67 Preference: 2
+Candidate: 19 Score: 10.50 Preference: 2
+
+Programme 5 has 5 places
+Interested candidates are 9
+Candidate: 13 Score: 19.67 Preference: 1
+Candidate: 20 Score: 19.05 Preference: 1
+Candidate: 18 Score: 18.56 Preference: 1
+Candidate: 28 Score: 16.78 Preference: 1
+Candidate: 5  Score: 15.78 Preference: 1
+Candidate: 25 Score: 13.45 Preference: 1
+Candidate: 15 Score: 12.80 Preference: 2
+Candidate: 23 Score: 12.67 Preference: 1
+Candidate: 19 Score: 10.50 Preference: 1
+
+Candidate Allocations
+
+Candidate 1  has been allocated a place on programme 2
+Candidate 2  has been allocated a place on programme 4
+Candidate 3  has been allocated a place on programme 2
+Candidate 4  has been allocated a place on programme 3
+Candidate 5  has been allocated a place on programme 5
+Candidate 6  has been allocated a place on programme 2
+Candidate 7  has been allocated a place on programme 1
+Candidate 8  has been allocated a place on programme 4
+Candidate 9  has been allocated a place on programme 1
+Candidate 10 has been allocated a place on programme 1
+Candidate 11 has been allocated a place on programme 1
+Candidate 12 has been allocated a place on programme 3
+Candidate 13 has been allocated a place on programme 5
+Candidate 14 has been allocated a place on programme 3
+Candidate 15 has not been allocated a study place
+Candidate 16 has not been allocated a study place
+Candidate 17 has been allocated a place on programme 3
+Candidate 18 has been allocated a place on programme 5
+Candidate 19 has not been allocated a study place
+Candidate 20 has been allocated a place on programme 5
+Candidate 21 has been allocated a place on programme 4
+Candidate 22 has been allocated a place on programme 3
+Candidate 23 has not been allocated a study place
+Candidate 24 has been allocated a place on programme 2
+Candidate 25 has not been allocated a study place
+Candidate 26 has been allocated a place on programme 4
+Candidate 27 has been allocated a place on programme 4
+Candidate 28 has been allocated a place on programme 5
+Candidate 29 has been allocated a place on programme 2
+Candidate 30 has been allocated a place on programme 1
+
+Programme Allocations
+
+The following candidates receive a place on Programme 1
+Candidate: 30 with score 19.30
+Candidate: 10 with score 19.12
+Candidate: 7  with score 15.76
+Candidate: 9  with score 15.67
+Candidate: 11 with score 15.45
+
+The following candidates receive a place on Programme 2
+Candidate: 3  with score 18.36
+Candidate: 24 with score 18.23
+Candidate: 1  with score 16.25
+Candidate: 29 with score 13.47
+Candidate: 6  with score 12.78
+
+The following candidates receive a place on Programme 3
+Candidate: 4  with score 19.56
+Candidate: 14 with score 18.23
+Candidate: 17 with score 17.06
+Candidate: 12 with score 16.34
+Candidate: 22 with score 15.78
+
+The following candidates receive a place on Programme 4
+Candidate: 2  with score 20.00
+Candidate: 8  with score 17.50
+Candidate: 27 with score 17.23
+Candidate: 21 with score 16.45
+Candidate: 26 with score 16.12
+
+The following candidates receive a place on Programme 5
+Candidate: 13 with score 19.67
+Candidate: 20 with score 19.05
+Candidate: 18 with score 18.56
+Candidate: 28 with score 16.78
+Candidate: 5  with score 15.78
+
